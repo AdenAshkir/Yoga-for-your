@@ -23,6 +23,7 @@ h1, h2 {
 #logo{
     float: left;
     font-size: 280%;
+    margin-left: 10px;
 }
 
 /* navigation links*/
@@ -54,7 +55,7 @@ h1, h2 {
 /* hero image*/
 
 #hero-outer{
-    height: 1200px;
+    height: 800px;
     width: 100%;
     overflow: hidden;
     position: relative;
@@ -85,8 +86,24 @@ h1, h2 {
 
     background-color: #1c3131;
 
-    bottom: 540px;
+    bottom: 150px;
     right: 20px;
 
     position: absolute;
+}
+
+/* about us*/
+
+#about-us{
+    height: 800px;
+    padding-top: 30px;
+    text-align: center;
+    
+    
+}
+
+#offer{
+    padding-top: 80px;
+    width: 20%;
+    
 }
