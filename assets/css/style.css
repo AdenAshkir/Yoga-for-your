@@ -50,3 +50,17 @@ h1, h2 {
 #menu a:hover{
     border-bottom: 1px solid #000000;
 }
+
+/* hero image*/
+
+#hero-outer{
+    height: 1200px;
+    width: 100%;
+    overflow: hidden;
+}
+
+#hero-image{
+    height: 800px;
+    width: 40%;
+    background: url('../images/pexels-nick-wehrli-6727859.jpg') no-repeat center center;
+}
