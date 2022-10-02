@@ -95,15 +95,27 @@ h1, h2 {
 /* about us*/
 
 #about-us{
-    height: 800px;
+    height: 500px;
     padding-top: 30px;
     text-align: center;
-    
-    
+    background-color: #1c3131;
+    color: #ffffff;
 }
 
-#offer{
-    padding-top: 80px;
+#about-us h2{
+    color: #ffffff;
+}
+
+#text-left{
+    padding-top: 60px;
     width: 20%;
-    
+    padding-left: 30px;
+    text-align: left;
+    padding-bottom: 40px;
+}
+
+#time-table{
+    width: 40%;
+    text-align: left;
+    padding-left: 30px;
 }
