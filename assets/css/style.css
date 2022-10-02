@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300&family=Playfair+Display:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alkalami&family=Montserrat:wght@300&display=swap');
 
 *{
     margin: 0;
@@ -6,6 +6,21 @@
     border: none;
 }
 body {
-    font-family: josefin-sanLs ,sans-serif;
+    font-family: montserrat ,sans-serif;
     font-weight: 300;
+    color: #2F4F4F;
+}
+
+/* headings and logo*/
+
+h1, h2 {
+    font-family: alkalami,sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #1c3131;
+}
+
+#logo{
+    float: left;
+    font-size: 280%;
 }
