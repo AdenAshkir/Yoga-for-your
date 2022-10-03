@@ -123,11 +123,12 @@ h1, h2 {
 /* footer */
 
 footer {
-    height: 150px;
+    height: 400px;
 }
 
 .social-networks {
     text-align: center;
+    
 }
 
 .social-networks > li {
@@ -139,4 +140,10 @@ footer {
     margin: 1%;
     padding: 5%;
     color: #1c3131;
+    margin-top: 10px;
+}
+
+#contact{
+    font-size: 160%;
+    text-align: center;
 }
