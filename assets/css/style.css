@@ -158,17 +158,33 @@ footer {
 
 .signup-form{
     margin: 70px 100% 0 0;
-    color: #1c3131;
-    background-color:rgba(60, 60, 60, 0.6);
+    color: #ffffff;
+    background-color:#1c3131;
     max-width: 400px;
     position: absolute;
     padding: 100px;
-    display:inline-block ;
-    margin-left: auto;
-    margin-right: auto;
+    left: 760px;
 }
 
 .signup-form h2 {
     margin-bottom: 20px;
+    color: #ffffff;
 }
 
+.join-button{
+    margin-top: 20px;
+    border-radius: 2px;
+    padding: 15px 32px 15px 32px;
+    text-align: center;
+    font-size: 100%;
+    background-color: #ffffff;
+    color: #1c3131;
+    display: inline-block;
+    
+}
+
+.join-button:hover{
+    background-color: #1c3131;
+    color:#ffffff;
+    border-color: #ffffff;
+}
