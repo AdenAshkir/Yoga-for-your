@@ -140,7 +140,6 @@ footer {
     margin: 1%;
     padding: 5%;
     color: #1c3131;
-    margin-top: 10px;
 }
 
 #contact{
@@ -187,4 +186,12 @@ footer {
     background-color: #1c3131;
     color:#ffffff;
     border-color: #ffffff;
+}
+
+/* Map*/
+
+.map{
+    height: 500px;
+    width: 100%;
+    margin-top: 20px;
 }
