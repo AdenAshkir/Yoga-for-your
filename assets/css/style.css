@@ -55,7 +55,7 @@ h1, h2 {
 /* hero image*/
 
 #hero-outer{
-    height: 800px;
+    height: 850px;
     width: 100%;
     overflow: hidden;
     position: relative;
@@ -67,9 +67,10 @@ h1, h2 {
 }
 
 #hero-image{
-    height: 800px;
-    width: 40%;
-    background: url('../images/pexels-nick-wehrli-6727859.jpg') no-repeat center center;
+    height: 900px;
+    width: 38%;
+    background: url('../images/pexels-kampus-production-6698511.jpg') no-repeat center center;
+    
 }
 
 #cover-text {
@@ -112,6 +113,12 @@ h1, h2 {
     padding-left: 30px;
     text-align: left;
     padding-bottom: 40px;
+}
+
+#aboutus-image{
+    background-image: url('../images/pexels-nick-wehrli-6727859.jpg') ;
+    height: 800px;
+    width: 33%;
 }
 
 #time-table{
