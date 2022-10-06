@@ -167,13 +167,13 @@ footer {
 }
 
 .signup-form{
-    margin: 70px 100% 0 0;
+    margin: 50px 1%;
     color: #ffffff;
-    background-color:#1c3131;
-    max-width: 400px;
+    background-color: #1c3131;
+    width: 400px;
     position: absolute;
     padding: 100px;
-    left: 680px;
+    left: 670px;
 }
 
 .signup-form h2 {
@@ -212,7 +212,7 @@ footer {
 
 /* Media queries */
 
-/* for larger to medium screens size from 1200px wide and down */
+/* for larger to medium screens size from 992px wide and down */
 @media screen and (max-width: 992px){
     #hero-outer { 
         width: 100%;
@@ -261,14 +261,13 @@ footer {
         text-align: center;
         width: 100%;
     }
-
     .signup-form{
-        width: 33%;
+        
 
     }
 }
     
-/* for larger to medium screens size from 1200px wide and down */
+/* for larger to medium screens size from 768px wide and down */
 
 @media screen and (max-width: 768px){
     #hero-outer { 
@@ -278,16 +277,68 @@ footer {
 
 
     #hero-image {
-        width: 768px;
-        height: 40%;
-        margin-top: 130px;
+        width: 100%;
+        height: 768px;
+        margin: auto;
+        
 
     }
 
     #cover-text {
         width: 100%;
         text-align: center;
-        float: right;
+        height: 30%;
+        margin-top: 1000px;
+        margin-left: 50px;
+
+    }
+
+    #signup-form{
+        width: 100%;
+        text-align: center;
+
+    }
+
+    .form-section{
+        width: 100%;
+        height: 768px;
+    }
+}
+
+/* for larger to medium screens size from 600px wide and down */
+
+@media screen and (max-width: 600px){
+    #hero-outer { 
+        width: 100%;
+        height: 992px;  
+    }
+
+
+    #hero-image {
+        width: 100%;
+        height: 768px;
+        margin: auto;
         
+
+    }
+
+    #cover-text {
+        width: 100%;
+        text-align: center;
+        height: 30%;
+        margin-top: 1400px;
+        margin-left: 50px;
+
+    }
+
+    #signup-form{
+        width: 100%;
+        text-align: center;
+
+    }
+
+    .form-section{
+        width: 100%;
+        height: 768px;
     }
 }
