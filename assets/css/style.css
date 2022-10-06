@@ -96,7 +96,7 @@ h1, h2 {
 /* about us*/
 
 #about-us{
-    height: 500px;
+    height: 450px;
     padding-top: 30px;
     text-align: center;
     background-color: #1c3131;
@@ -115,11 +115,6 @@ h1, h2 {
     padding-bottom: 40px;
 }
 
-#aboutus-image{
-    background-image: url('../images/pexels-nick-wehrli-6727859.jpg') ;
-    height: 800px;
-    width: 33%;
-}
 
 #time-table{
     width: 40%;
@@ -169,7 +164,7 @@ footer {
     max-width: 400px;
     position: absolute;
     padding: 100px;
-    left: 760px;
+    left: 680px;
 }
 
 .signup-form h2 {
@@ -195,6 +190,9 @@ footer {
     border-color: #ffffff;
 }
 
+.text-input {
+    font-size: 25px;
+}
 /* Map*/
 
 .map{
