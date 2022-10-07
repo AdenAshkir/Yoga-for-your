@@ -15,7 +15,7 @@ Users of this website will be able to find information they need to know about Y
 <li>the navigation links are right About us,Signup and Contact which links to the different sections of the same page.</li>
 <li>The navigation clearly tells the user the name of organization and website and makes the different sections of information easy to find</li>
 </ul>
-![](assets/images/Screenshot%202022-10-07%2011.34.34.png)
+
 
 <h4>The Header</h4>
 <ul>
@@ -23,11 +23,52 @@ Users of this website will be able to find information they need to know about Y
 <li>The header encourages people to take classes.</li>
 <li>The section provides a good information for the user.</li>
 </ul>
-![](assets/images/Screenshot%202022-10-07%2011.50.03.png)
+
 
 <h4>The About us section</h4>
 <ul>
 <li>The about us section gives details about what the organization offers the members, and has a table with the organization classes .</li>
 <li>The section shows the user the iportant informaation they need to know about the organization. What the offer and when they are open for different interest.</li>
 </ul>
-![](assets/images/Screenshot%202022-10-07%2011.21.26.png)
+
+<h4>The Sign up section</h4>
+<ul>
+<li>THe sign up section has a form to collect details from new memebers so they can sign up to the organization.</li>
+<li>The form collects the new member first and last name and an email address.</li>
+</ul>
+
+
+<h4>The Contact section</h4>
+<ul>
+<li>The contact section encourages users to get in contact and provides a phone number, email address and street address plus with a map so the can search up where they can be found(the organization).</li>
+</ul>
+
+
+<h4>Testing</h4>
+<ul>
+  <li><h5> HTML </h5></li>
+  <li>No errors were returned when passing through the the offical W3C validator</li>
+   <li><h5> CSS </h5></li>
+  <li>No errors were returned when passing through the the offical (Jigsaw) validator</li>
+   <li><h5>Accesibility </h5></li>
+  <li>I conformed that the colors and fonts chosen are easy to read and accesible by running it through lighthouse in devtools.</li>
+</ul>
+![](assets/images/Screenshot%202022-10-07%2012.16.42.png)
+
+<h4>Deployment</h4>
+<ul>
+  <li>The site was deployed to GitHub pages. </li>
+The live link can be found here (https://adenashkir.github.io/Yoga-for-your/)
+</ul>
+
+<h4>Credit</h4>
+<h5>Content</h5>
+<ul>
+<li>The code to make the social media links,the header and navigation bar was taken from the CI Love Running Project .</li>
+</ul>
+
+
+<h4>Media</h4>
+<ul>
+<li>The image for the heaer was taken from Pexels .</li>
+</ul>
