@@ -23,4 +23,11 @@ Users of this website will be able to find information they need to know about Y
 <li>The header encourages people to take classes.</li>
 <li>The section provides a good information for the user.</li>
 </ul>
-![](assets/images/Screenshot%202022-10-07%2011.34.34.png)
+![](assets/images/Screenshot%202022-10-07%2011.50.03.png)
+
+<h4>The About us section</h4>
+<ul>
+<li>The about us section gives details about what the organization offers the members, and has a table with the organization classes .</li>
+<li>The section shows the user the iportant informaation they need to know about the organization. What the offer and when they are open for different interest.</li>
+</ul>
+![](assets/images/Screenshot%202022-10-07%2011.21.26.png)
