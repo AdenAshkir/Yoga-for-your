@@ -15,7 +15,7 @@ Users of this website will be able to find information they need to know about Y
 <li>the navigation links are right About us,Signup and Contact which links to the different sections of the same page.</li>
 <li>The navigation clearly tells the user the name of organization and website and makes the different sections of information easy to find</li>
 </ul>
-![Nav Bar}(https://github.com/AdenAshkir/Yoga-for-your/blob/main/assets/images/nav%20bar.png)
+![Nav Bar](https://github.com/AdenAshkir/Yoga-for-your/blob/main/assets/images/nav%20bar.png)
 
 <h4>The Header</h4>
 <ul>
@@ -23,27 +23,27 @@ Users of this website will be able to find information they need to know about Y
 <li>The header encourages people to take classes.</li>
 <li>The section provides a good information for the user.</li>
 </ul>
-![Header}(https://github.com/AdenAshkir/Yoga-for-your/blob/main/assets/images/header%20.png)
+![Header](https://github.com/AdenAshkir/Yoga-for-your/blob/main/assets/images/header%20.png)
 
 <h4>The About us section</h4>
 <ul>
 <li>The about us section gives details about what the organization offers the members, and has a table with the organization classes .</li>
 <li>The section shows the user the iportant informaation they need to know about the organization. What the offer and when they are open for different interest.</li>
 </ul>
-![About us}(https://github.com/AdenAshkir/Yoga-for-your/blob/main/assets/images/about%20us%20scr.png)
+![About us](https://github.com/AdenAshkir/Yoga-for-your/blob/main/assets/images/about%20us%20scr.png)
 
 <h4>The Sign up section</h4>
 <ul>
 <li>THe sign up section has a form to collect details from new memebers so they can sign up to the organization.</li>
 <li>The form collects the new member first and last name and an email address.</li>
 </ul>
-![Sign up}(https://github.com/AdenAshkir/Yoga-for-your/blob/main/assets/images/sign%20up%20scr.png)
+![Sign up](https://github.com/AdenAshkir/Yoga-for-your/blob/main/assets/images/sign%20up%20scr.png)
 
 <h4>The Contact section</h4>
 <ul>
 <li>The contact section encourages users to get in contact and provides a phone number, email address and street address plus with a map so the can search up where they can be found(the organization).</li>
 </ul>
-![Contact us}(https://github.com/AdenAshkir/Yoga-for-your/blob/main/assets/images/contact%20us%20scr.png)
+![Contact us](https://github.com/AdenAshkir/Yoga-for-your/blob/main/assets/images/contact%20us%20scr.png)
 
 <h4>Testing</h4>
 <ul>
