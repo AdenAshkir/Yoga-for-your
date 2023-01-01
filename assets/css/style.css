@@ -209,7 +209,11 @@ footer {
     .signup-form{
         text-align: center;
         width: auto;
+        height: auto;
+        width: 400px;
     }
+
+
 }
     
 /* for larger to medium screens size from 768px wide and down */
@@ -285,4 +289,12 @@ footer {
    #text-input{
     width: auto;
    }
+
+   .signup-form{
+    width: auto;
+   }
+
+.sticky{
+    width: 529px;
+}
 }
