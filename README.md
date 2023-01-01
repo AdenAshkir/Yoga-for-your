@@ -30,20 +30,20 @@ Users of this website will be able to find information they need to know about Y
 <li>The about us section gives details about what the organization offers the members, and has a table with the organization classes .</li>
 <li>The section shows the user the iportant informaation they need to know about the organization. What the offer and when they are open for different interest.</li>
 </ul>
-<img src="assets/images/about us.png">
+<img src="assets/images/about us scr.png">
 
 <h4>The Sign up section</h4>
 <ul>
 <li>THe sign up section has a form to collect details from new memebers so they can sign up to the organization.</li>
 <li>The form collects the new member first and last name and an email address.</li>
 </ul>
-<img src="assets/images/sign up src.png">
+<img src="assets/images/sign up scr.png">
 
 <h4>The Contact section</h4>
 <ul>
 <li>The contact section encourages users to get in contact and provides a phone number, email address and street address plus with a map so the can search up where they can be found(the organization).</li>
 </ul>
-<img src="assets/image/contact us src.png">
+<img src="assets/image/contact us scr.png">
 
 <h4>Testing</h4>
 <ul>
