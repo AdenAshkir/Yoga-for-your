@@ -43,7 +43,7 @@ Users of this website will be able to find information they need to know about Y
 <ul>
 <li>The contact section encourages users to get in contact and provides a phone number, email address and street address plus with a map so the can search up where they can be found(the organization).</li>
 </ul>
-<img src="assets/image/contact us scr.png">
+<img src="assets/images/contact us scr.png">
 
 <h4>Testing</h4>
 <ul>
